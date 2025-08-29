@@ -1,4 +1,7 @@
 pandas
-sklearn
+scikit-learn
 seaborn
 matplotlib
+graphviz
+plotly
+statsmodels
